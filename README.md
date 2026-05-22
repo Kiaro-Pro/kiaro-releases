@@ -1,9 +1,7 @@
 # Kiaro Pro — Releases
 
-This repository hosts the **public download artifacts** (installers, AppImages, and
+This repository hosts the download artifacts (installers, AppImages, and
 auto-update metadata) for [Kiaro Pro](https://kiaro.pro).
-
-The application source code lives in a separate private repository.
 
 ## Where to download
 
