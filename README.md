@@ -25,10 +25,19 @@ Every tagged release ships three platform builds:
 `latest-mac.yml`, `latest.yml`, and `latest-linux.yml` are auto-update manifests
 read by the in-app updater. Don't edit them by hand — they're produced by CI.
 
+## Community
+
+Join the Kiaro Pro community on [**Discord**](https://discord.gg/Rv2yJv2e) to
+share workflows, request features, get installation help, and talk to other
+users. The fastest way to influence the roadmap is to show up there.
+
+[![Join the Discord](https://img.shields.io/discord/1507854118189011165?label=community&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/Rv2yJv2e)
+
 ## Reporting issues
 
-Please file bugs at [kiaro.pro/contact](https://kiaro.pro/contact). This repo
-exists only to host downloadable artifacts and doesn't accept issues or PRs.
+Please file bugs at [kiaro.pro/contact](https://kiaro.pro/contact) or ask in
+[Discord](https://discord.gg/Rv2yJv2e). This repo exists only to host
+downloadable artifacts and doesn't accept issues or PRs.
 
 ## License
 
